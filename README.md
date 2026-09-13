@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on exciting projects involving **Web Development, AI, and Backend Systems**.
 - 🌱 I’m currently learning more about **Advanced JavaScript, Python, and scalable architectures**.
 - 💬 Ask me about **JavaScript, React, Node.js, and Python**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/your-profile)** | **[Email](mailto:your.email@example.com)** *(Don't forget to update these links!)*
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vaibhav-raheja-50954336a/)** | **[Email](mailto:your.email@example.com)**
 - ⚡ Fun fact: *I love exploring new tech and automating everyday tasks!*
 
 ---
